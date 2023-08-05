@@ -18,7 +18,7 @@
     "require": {
         "illuminate/support": "~6.0 || ~7.0 || ~8.0",
         "illuminate/session": "~6.0 || ~7.0 || ~8.0",
-        "illuminate/events": "~6.0 || ~7.0 || ~8.0"
+        "illuminate/events": "~6.0 || ~7.0 || ~8.0",
         "nesbot/carbon": "~1.20||^1.26.3||^2.0"
     },
     "require-dev": {
