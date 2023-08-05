@@ -16,9 +16,9 @@
         }
     ],
     "require": {
-        "illuminate/support": "8.0.*",
-        "illuminate/session": "8.0.*",
-        "illuminate/events": "8.0.*",
+        "illuminate/support": "10.0.*",
+        "illuminate/session": "10.0.*",
+        "illuminate/events": "10.0.*",
         "nesbot/carbon": "^2.0"
     },
     "require-dev": {
